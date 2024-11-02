@@ -1,18 +1,18 @@
 [submodule "repos/gnumach"]
-	path = repos/gnumach
+	path = repos/hurd/gnumach
 	url = https://git.savannah.gnu.org/git/hurd/gnumach.git
 [submodule "repos/hurd"]
-	path = repos/hurd
+	path = repos/hurd/hurd
 	url = https://git.savannah.gnu.org/git/hurd/hurd.git
 [submodule "repos/procfs"]
-	path = repos/procfs
+	path = repos/hurd/procfs
 	url = https://git.savannah.gnu.org/git/hurd/procfs.git
 [submodule "repos/unionfs"]
-	path = repos/unionfs
+	path = repos/hurd/unionfs
 	url = https://git.savannah.gnu.org/git/hurd/unionfs.git
 [submodule "repos/web"]
-	path = repos/web
+	path = repos/hurd/web
 	url = https://git.savannah.gnu.org/git/hurd/web.git
 [submodule "repos/mig"]
-	path = repos/mig
+	path = repos/hurd/mig
 	url = https://git.savannah.gnu.org/git/hurd/mig.git

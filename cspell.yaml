@@ -1,0 +1,30 @@
+version: "0.2"
+language: en
+dictionaries:
+  - love-hurd-words
+  - en_US
+  - softwareTerms
+  - networking-terms
+  - filetypes
+  - fonts
+  - cpp
+  - python-common
+  - python
+  - bash
+  - node
+  - typescript
+  - html
+  - css
+  - npm
+
+dictionaryDefinitions:
+  - name: love-hurd-words
+    path: './love-hurd-words.txt'
+    addWords: true
+
+patterns:
+  - name: libs
+    pattern: /lib.+/g
+
+ignoreRegExpList:
+  - libs
