@@ -1,4 +1,8 @@
-crupest
-
 # tools
+crupest
+glic
 topgit
+
+# loved people's names
+tschwinge
+Whittaker
